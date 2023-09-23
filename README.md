@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Britt Verslegers
 - 💻 I'm a Data Analyst
 - 🚀 I’m currently finishing my studies at Turing College 
-- 💞️ I’m looking for a job as a Product Data Analyst
+- 💯 I’m looking for a job as a Product Data Analyst
 - 📫 How to reach me brittverslegers@hotmail.com
 
 <!---
